@@ -1,0 +1,23 @@
+{
+  "name": "get-simple-date",
+  "version": "1.0.0",
+  "description": "a JavaScript Module that provides some simple date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantegg/get-simple-date.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "date"
+  ],
+  "author": "dantegg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dantegg/get-simple-date/issues"
+  },
+  "homepage": "https://github.com/dantegg/get-simple-date#readme"
+}
