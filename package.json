@@ -1,6 +1,6 @@
 {
   "name": "get-simple-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a JavaScript Module that provides some simple date",
   "main": "index.js",
   "scripts": {
